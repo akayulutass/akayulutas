@@ -1,0 +1,20 @@
+body { 
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Gulim", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+  background-color: #f2f2f0 ;
+}
+body {
+  background-image: url("background-img.jpg");
+}
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1, h2, strong {
+  color: #333;
+}
